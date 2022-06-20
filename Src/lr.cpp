@@ -40,8 +40,8 @@ int main(int argc, char *argv[]){
 
   // génération de l'image à partir de la caméra
 
-  cam.genererImage(sc, im, PROF);
-
+  //cam.genererImage(sc, im, PROF);
+  cam.genererImageParallele(sc, im, PROF,4);
 
   // sauvegarde de l'image
   im.sauver("image.ppm");

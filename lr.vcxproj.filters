@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\lr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Objet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Materiau.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Couleur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Plan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Vecteur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Intensite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Rayon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Intersection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Objet.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Sphere.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Materiau.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Couleur.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Plan.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Scene.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Point.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Vecteur.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Intensite.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Source.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Image.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Rayon.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Intersection.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\Src\Triangle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\clair\Documents\Cours\M1I2L\HPC\V1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{34AE339A-4307-3D89-89A4-899200CE040A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4C3DD328-58C8-3EE9-AB1E-D832DB56AD31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
